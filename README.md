@@ -80,9 +80,7 @@ Projects created during university:
 
 # 🎵 Current Mood
 
-▶ Triage at Dawn <br>
-━━━━━━━━━━━━━━━⬤━━━━━━ 3:30 / 4:10<br>
-Valve | Half Life 2
+![Now Playing](https://github-now-playing-neon.vercel.app/api/index)
 
 ---
 
