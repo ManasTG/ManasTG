@@ -66,19 +66,14 @@ Projects created during university:
 </tr>
 </table>
 
-<!---
+---
+# ♟️ Misc Projects
 
-# 🌱 Currently Learning
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=ManasTG&repo=ManasTG/github-now-playing&theme=github_dark_dimmed)](https://github.com/ManasTG/github-now-playing)
 
-* Open Source Development
-* Advanced Python
-* Game Development with Godot
-* Web Development
-* Data Structures & Algorithms
--->
 ---
 
-# 🎵 Current Mood
+# 🎵 Currently Listening
 
 ![Now Playing](https://github-now-playing-neon.vercel.app/api/index)
 
