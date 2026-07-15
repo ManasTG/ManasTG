@@ -2,7 +2,7 @@
 
 <img
   align="right"
-  width="25%"
+  width="30%"
   src="https://github-stats-extended.vercel.app/api/top-langs?username=ManasTG&layout=compact&hide_title=true&langs_count=6&hide_values=true&disable_animations=true&theme=github_dark_dimmed"
 />
 Building things, contributing to open source, and occasionally disappearing into side projects.
@@ -30,6 +30,12 @@ Projects related to game development.
 ### Godot-Showcase-I
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=ManasTG&repo=ManasTG/GoDot-Showcase-1&theme=github_dark_dimmed)](https://github.com/ManasTG/GoDot-Showcase-1)
+
+---
+
+# ♟️ Other Projects
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=ManasTG&repo=ManasTG/github-now-playing&theme=github_dark_dimmed)](https://github.com/ManasTG/github-now-playing)
 
 ---
 
@@ -67,11 +73,7 @@ Projects created during university:
 </table>
 
 ---
-# ♟️ Misc Projects
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=ManasTG&repo=ManasTG/github-now-playing&theme=github_dark_dimmed)](https://github.com/ManasTG/github-now-playing)
-
----
 
 # 🎵 Currently Listening
 
