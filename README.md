@@ -2,7 +2,7 @@
 
 <img
   align="right"
-  width="30%"
+  width="35%"
   src="https://github-stats-extended.vercel.app/api/top-langs?username=ManasTG&layout=compact&hide_title=true&langs_count=6&hide_values=true&disable_animations=true&theme=github_dark_dimmed"
 />
 Building things, contributing to open source, and occasionally disappearing into side projects.
@@ -40,9 +40,9 @@ Projects related to game development.
 # ♟️ Other Projects
 
 ### github-now-playing (July '26)
-> Github widget for README files to display music currently listening to 
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=ManasTG&repo=ManasTG/github-now-playing&description_lines_count=2&theme=github_dark_dimmed)](https://github.com/ManasTG/github-now-playing)
+> Github widget for README files to display music currently listening to 
 
 ---
 
