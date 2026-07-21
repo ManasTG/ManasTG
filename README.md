@@ -41,9 +41,28 @@ Projects related to game development.
 
 ### github-now-playing (July '26)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=ManasTG&repo=ManasTG/github-now-playing&description_lines_count=2&theme=github_dark_dimmed)](https://github.com/ManasTG/github-now-playing)
-> Github widget for README files to display music currently listening to 
+<table>
+<tr>
+<td width="50%">
 
+Github Readme Now-Playing
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=ManasTG&repo=ManasTG/github-now-playing&description_lines_count=2&theme=github_dark_dimmed)](https://github.com/ManasTG/github-now-playing)
+
+> Github widget for README files to display music currently listening to .
+
+</td>
+
+<td width = "50%">
+
+ToDo Application
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=ManasTG&repo=ManasTG/capture-first-productivity&theme=github_dark_dimmed)](https://github.com/ManasTG/capture-first-productivity)
+
+> A Todo Application were the moto is record the info with a shortcut like Mac's spotlight.
+
+</td>
+</tr>
 ---
 
 # 🎓 College Projects
@@ -68,7 +87,7 @@ Placement & Internship Tracking System
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=ManasTG&repo=asif6544/-PLACEMENT-INTERNSHIP-TRACKING-SYSTEM-ER-DIAGRAM_-DBMS&show_owner=true&description_lines_count=2&theme=github_dark_dimmed)](https://github.com/asif6544/-PLACEMENT-INTERNSHIP-TRACKING-SYSTEM-ER-DIAGRAM_-DBMS)
 
-> A DBMS project featuring an ER diagram and relational database design.
+> A Database Management System project featuring an ER diagram and relational database design.
 
 </td>
 </tr>

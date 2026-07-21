@@ -16,8 +16,7 @@ pip install -r requirements.txt
 ---
 
 ## 3. Putting new dependencies in the requirements files (while activated)
-
-```bas
-source .venv\Scripts\activate
+```bash
+source .venv/bin/activate
 pip freeze > requirements.txt
 ```
