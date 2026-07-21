@@ -59,10 +59,12 @@ ToDo Application
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=ManasTG&repo=ManasTG/capture-first-productivity&theme=github_dark_dimmed)](https://github.com/ManasTG/capture-first-productivity)
 
-> A Todo Application were the moto is record the info with a shortcut like Mac's spotlight.
+> A Todo Application were the moto is record the info with a shortcut quickly like Mac's spotlight.
 
 </td>
 </tr>
+</table>
+
 ---
 
 # 🎓 College Projects
