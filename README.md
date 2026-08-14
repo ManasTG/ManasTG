@@ -55,7 +55,7 @@ Github Readme Now-Playing
 
 <td width = "50%">
 
-ToDo Application
+ToDo Application (on-hold)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=ManasTG&repo=ManasTG/capture-first-productivity&theme=github_dark_dimmed)](https://github.com/ManasTG/capture-first-productivity)
 
