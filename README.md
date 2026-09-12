@@ -39,13 +39,13 @@ Projects related to game development.
 
 # ♟️ Other Projects
 
-### github-now-playing (July '26)
+
 
 <table>
 <tr>
 <td width="50%">
 
-Github Readme Now-Playing
+### github-now-playing (July '26)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=ManasTG&repo=ManasTG/github-now-playing&description_lines_count=2&theme=github_dark_dimmed)](https://github.com/ManasTG/github-now-playing)
 
@@ -55,11 +55,11 @@ Github Readme Now-Playing
 
 <td width = "50%">
 
-ToDo Application (on-hold)
+### Empty Classroom Finder(September '26)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=ManasTG&repo=ManasTG/capture-first-productivity&theme=github_dark_dimmed)](https://github.com/ManasTG/capture-first-productivity)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=ManasTG&repo=ManasTG%2FEmptyClassroomFinder&theme=github_dark_dimmed)](https://github.com/ManasTG/EmptyClassroomFinder)
 
-> A Todo Application were the moto is record the info with a shortcut quickly like Mac's spotlight.
+> Find empty classrooms at IILM University with an automatically updated timetable.
 
 </td>
 </tr>
