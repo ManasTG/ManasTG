@@ -25,26 +25,35 @@ A Media Player widget for KDE Plasma
 
 Projects related to game development.
 
+<table>
+<tr>
+<td width="50%">
+  
 ### TankTop (January '26 - Now)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=ManasTG&repo=ManasTG/Tank_Tops&description_lines_count=3&theme=github_dark_dimmed)](https://github.com/ManasTG/Tank_Tops)
 > A long-term top-down tank combat game built using Godot.
 
+</td>
+
+<td width = "50%">
+
 ### Godot-Showcase-I (Decemeber '25 - January '26)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=ManasTG&repo=ManasTG/GoDot-Showcase-1&description_lines_count=3&theme=github_dark_dimmed)](https://github.com/ManasTG/GoDot-Showcase-1)
-> A tutorial project to learn about godot game engine
+> A tutorial project to learn about Godot game engine(completed).
+</td>
+</tr>
+</table>
 
 ---
 
 # ♟️ Other Projects
 
-
-
 <table>
 <tr>
 <td width="50%">
-
+  
 ### github-now-playing (July '26)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=ManasTG&repo=ManasTG/github-now-playing&description_lines_count=2&theme=github_dark_dimmed)](https://github.com/ManasTG/github-now-playing)
@@ -52,7 +61,6 @@ Projects related to game development.
 > Github widget for README files to display music currently listening to .
 
 </td>
-
 <td width = "50%">
 
 ### Empty Classroom Finder(September '26)
