@@ -20,3 +20,10 @@ pip install -r requirements.txt
 source .venv/bin/activate
 pip freeze > requirements.txt
 ```
+---
+
+## Extras 
+### 1. Installing individual Library
+```bash
+pip install manim
+```
