@@ -101,28 +101,6 @@ Placement & Internship Tracking System
 
 </td>
 </tr>
-
-<tr>
-<td>
-
-DBMS College
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=ManasTG&repo=DBMS_College&description_lines_count=2&theme=github_dark_dimmed)](https://github.com/ManasTG/DBMS_College)
-
-> DBMS coursework and SQL practice.
-
-</td>
-
-<td>
-
-Python Assignments
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=ManasTG&repo=Manas_2410030591_IILMGN_Python&description_lines_count=2&theme=github_dark_dimmed)](https://github.com/ManasTG/Manas_2410030591_IILMGN_Python)
-
-> Collection of Python programs and college assignments.
-
-</td>
-</tr>
 </table>
 
 ---
