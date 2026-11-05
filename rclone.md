@@ -1,8 +1,9 @@
 # RCLONE
+> Used to clone file to google drive or vice-versa
 
 ### To sync the local file location to the google drive's `college` folder
 ```bash
-krane@latitude7280:~$ rclone sync '/run/media/krane/Local Disk 2/Manas/College' gdrive:college
+rclone sync '/run/media/krane/Local Disk 2/Manas/College' gdrive:college
 ```
 
 ### To sync the folder and showing the progress of it
@@ -15,7 +16,7 @@ rclone sync '/run/media/krane/Local Disk 2/Manas/College' gdrive:college --progr
 rclone sync '/run/media/krane/Local Disk 2/Manas/College' gdrive:college --dry-run
 ```
 
-### Fomating of rclone
+### Format of rclone
 ```bash
 rclone sync SOURCE DESTINATION
 ```

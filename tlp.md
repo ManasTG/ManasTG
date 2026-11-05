@@ -1,3 +1,5 @@
+## krane@latitude7280
+
 ```bash
 sudo tlp-stat -p
 ```
@@ -39,7 +41,7 @@ CPU model = Intel(R) Core(TM) i5-6300U CPU @ 2.40GHz
 ### To check the profile
 
 ```bash
-krane@latitude7280:~$ cat /sys/firmware/acpi/platform_profile
+cat /sys/firmware/acpi/platform_profile
 balanced
 ```
 
@@ -47,7 +49,7 @@ balanced
 ### To change the profile
 
 ```bash
-krane@latitude7280:~$ echo cool | sudo tee /sys/firmware/acpi/platform_profile
+echo cool | sudo tee /sys/firmware/acpi/platform_profile
 cool
 ```
 > to change - cool -> cool
@@ -55,7 +57,7 @@ cool
 ### To change the turbo option
 
 ```bash
-krane@latitude7280:~$ echo 1 | sudo tee /sys/devices/system/cpu/intel_pstate/no_turbo
+echo 1 | sudo tee /sys/devices/system/cpu/intel_pstate/no_turbo
 1
 ```
 > to change - 1 -> turbo off - 0 -> turbo on
